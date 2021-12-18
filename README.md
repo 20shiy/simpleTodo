@@ -19,20 +19,20 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user stories:
 
 User can add items:<br>
-<img src="" width=200><br>
+<img src="Todo%20App%20GIF%20walkthrough/addItem.gif" width=200><br>
 
-User can change the background color:<br>
-<img src="" width=200><br>
+User can delete items:<br>
+<img src="Todo%20App%20GIF%20walkthrough/removeItem.gif" width=200><br>
 
-User can change the text:<br>
-<img src="" width=200><br>
+List of items persisted upon modification and retrieved properly:<br>
+<img src="Todo%20App%20GIF%20walkthrough/listPersisted" width=200><br>
 
 
 GIF created with [Recordit](https://recordit.co/).
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [20shiy]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
