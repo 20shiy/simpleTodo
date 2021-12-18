@@ -25,7 +25,7 @@ User can delete items:<br>
 <img src="Todo%20App%20GIF%20walkthrough/removeItem.gif" width=200><br>
 
 List of items persisted upon modification and retrieved properly:<br>
-<img src="Todo%20App%20GIF%20walkthrough/listPersisted" width=200><br>
+<img src="Todo%20App%20GIF%20walkthrough/listPersisted.gif" width=200><br>
 
 
 GIF created with [Recordit](https://recordit.co/).
