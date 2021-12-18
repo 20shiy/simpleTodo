@@ -18,6 +18,15 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
+User can add items:<br>
+<img src="" width=200><br>
+
+User can change the background color:<br>
+<img src="" width=200><br>
+
+User can change the text:<br>
+<img src="" width=200><br>
+
 
 GIF created with [Recordit](https://recordit.co/).
 
